@@ -22,14 +22,14 @@
 		D73CB387159CDD9800F28A5A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D73CB389159CDD9800F28A5A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D73CB38B159CDD9800F28A5A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		D73CB38F159CDD9800F28A5A /* rhysZaxMultiTest-Info.plist */ = {isa = PBXFileReference; path = "rhysZaxMultiTest-Info.plist"; sourceTree = "<group>"; };
+		D73CB38F159CDD9800F28A5A /* rhysZaxMultiTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "rhysZaxMultiTest-Info.plist"; sourceTree = "<group>"; };
 		D73CB391159CDD9800F28A5A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D73CB393159CDD9800F28A5A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D73CB395159CDD9800F28A5A /* rhysZaxMultiTest-Prefix.pch */ = {isa = PBXFileReference; path = "rhysZaxMultiTest-Prefix.pch"; sourceTree = "<group>"; };
-		D73CB396159CDD9800F28A5A /* rhysZaxMultiTestAppDelegate.h */ = {isa = PBXFileReference; path = rhysZaxMultiTestAppDelegate.h; sourceTree = "<group>"; };
+		D73CB395159CDD9800F28A5A /* rhysZaxMultiTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "rhysZaxMultiTest-Prefix.pch"; sourceTree = "<group>"; };
+		D73CB396159CDD9800F28A5A /* rhysZaxMultiTestAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = rhysZaxMultiTestAppDelegate.h; sourceTree = "<group>"; };
 		D73CB397159CDD9800F28A5A /* rhysZaxMultiTestAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = rhysZaxMultiTestAppDelegate.m; sourceTree = "<group>"; };
 		D73CB39A159CDD9800F28A5A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		D73CB39C159CDD9800F28A5A /* rhysZaxMultiTestViewController.h */ = {isa = PBXFileReference; path = rhysZaxMultiTestViewController.h; sourceTree = "<group>"; };
+		D73CB39C159CDD9800F28A5A /* rhysZaxMultiTestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = rhysZaxMultiTestViewController.h; sourceTree = "<group>"; };
 		D73CB39D159CDD9900F28A5A /* rhysZaxMultiTestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = rhysZaxMultiTestViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
